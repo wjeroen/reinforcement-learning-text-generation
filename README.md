@@ -1,26 +1,6 @@
 # TextRL: Text Generation with Reinforcement Learning
 
-<p align="center">
-    <a href="https://pypi.org/project/textrl/">
-        <img alt="PyPI" src="https://img.shields.io/pypi/v/textrl">
-    </a>
-    <a href="https://github.com/voidful/tfkit">
-        <img alt="Download" src="https://img.shields.io/pypi/dm/textrl">
-    </a>
-    <a href="https://github.com/voidful/tfkit">
-        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/voidful/textrl">
-    </a>
-    <a href="https://www.codefactor.io/repository/github/voidful/textrl">
-        <img src="https://www.codefactor.io/repository/github/voidful/textrl/badge" alt="CodeFactor" />
-    </a>
-    <a href="https://github.com/voidful/textrl">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=voidful.textrl" alt="Visitor" />
-    </a>
-</p>
-
 TextRL is a Python library that aims to improve text generation using reinforcement learning, building upon Hugging Face's Transformers, PFRL, and OpenAI GYM. TextRL is designed to be easily customizable and can be applied to various text-generation models.
-
-![TextRL](https://github.com/voidful/TextRL/raw/main/img/Designer.png)
 
 ## Table of Contents
 
